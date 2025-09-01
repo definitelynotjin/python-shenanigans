@@ -1,0 +1,1082 @@
+[
+    {
+        "groupid": "191",
+        "name": "0990000020276262 IPVPN SCADA Disjatim GI Gondang Wetan",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "181",
+        "name": "172.25.31.110",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "209",
+        "name": "172.28.128.227",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "135",
+        "name": "3RD PARTY BACKBONE",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "223",
+        "name": "AMI",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "204",
+        "name": "Assyifa",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "145",
+        "name": "Bank Sumut",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "114",
+        "name": "CC.ICONPLUS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "115",
+        "name": "CC.ICONPLUS.SYS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "116",
+        "name": "CC.PLN.123.BALIKPAPAN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "117",
+        "name": "CC.PLN.123.BANDUNG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "118",
+        "name": "CC.PLN.123.DENPASAR",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "119",
+        "name": "CC.PLN.123.JAKARTA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "120",
+        "name": "CC.PLN.123.MAKASSAR",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "121",
+        "name": "CC.PLN.123.MEDAN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "122",
+        "name": "CC.PLN.123.NET.METRO",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "123",
+        "name": "CC.PLN.123.PALEMBANG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "124",
+        "name": "CC.PLN.123.SEMARANG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "125",
+        "name": "CC.PLN.123.SURABAYA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "126",
+        "name": "CC.PLN.123.SYS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "132",
+        "name": "CCTV-BANDUNG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "190",
+        "name": "CPE SCADA Redundan",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "20",
+        "name": "DISCOVERED HOSTS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "5",
+        "name": "Discovered hosts1",
+        "internal": "1",
+        "flags": "0"
+    },
+    {
+        "groupid": "163",
+        "name": "DISKOMINFO KAB MEMPAWAH",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "164",
+        "name": "DISKOMINFO KABUPATEN MEMPAWAH",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "162",
+        "name": "DISKOMINFO KOTA SINGKAWANG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "211",
+        "name": "DISKOMINFO_CJR",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "148",
+        "name": "GH Dislampung",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "221",
+        "name": "GI Bali",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "208",
+        "name": "GI SCADA UID BALI",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "198",
+        "name": "GSM-JABAR",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "7",
+        "name": "Hypervisors",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "136",
+        "name": "JAKARTA_4",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "137",
+        "name": "JAKARTA_5",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "201",
+        "name": "kci",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "224",
+        "name": "keypoint up2d disjatim",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "213",
+        "name": "KTT-ASEAN-LABUAN BAJO",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "207",
+        "name": "KTT-G20",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "2",
+        "name": "Linux servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "167",
+        "name": "METRONET-APD-LAMPUNG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "187",
+        "name": "METRONET-SUMUT",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "176",
+        "name": "METRONET-UID-JABAR",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "169",
+        "name": "METRONET-UID-JATIM",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "177",
+        "name": "METRONET-UID-JAYA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "175",
+        "name": "METRONET-UIKL-KALIMANTAN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "180",
+        "name": "METRONET-UIKL-SULAWESI",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "172",
+        "name": "METRONET-UIP-JBB",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "170",
+        "name": "METRONET-UIP-JBT-II",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "171",
+        "name": "METRONET-UIP-JBTB-I",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "182",
+        "name": "METRONET-UIP2D",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "178",
+        "name": "METRONET-UIT-JBB",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "184",
+        "name": "METRONET-UIT-JBTB",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "183",
+        "name": "METRONET-UIT-JBTENGAH",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "174",
+        "name": "METRONET-UIW-KALTIMRA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "179",
+        "name": "METRONET-UIW-KSKT",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "173",
+        "name": "METRONET-UIW-MMU",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "168",
+        "name": "METRONET-UP2D-RIAU",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "140",
+        "name": "MMI DISJAYA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "225",
+        "name": "Monitoring EOS Disjaya",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "210",
+        "name": "MSRS.CUST - Forti PLN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "192",
+        "name": "Multisite",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "220",
+        "name": "net",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "193",
+        "name": "OLT",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "196",
+        "name": "OLT-RBNT",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "194",
+        "name": "OLT-RIT",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "195",
+        "name": "OLT-RKAL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "149",
+        "name": "P2B",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "146",
+        "name": "PLN APD Aceh",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "67",
+        "name": "PLN MAIL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "66",
+        "name": "PLN-NET",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "150",
+        "name": "PLN-NET.MSROUTER",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "130",
+        "name": "PLN.APD.KSKT",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "139",
+        "name": "PLNPUSAT",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "141",
+        "name": "POP Retail",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "205",
+        "name": "PT Kereta Api Indonesia",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "199",
+        "name": "PT Kereta Commuter Indonesia",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "144",
+        "name": "PTPN IV",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "138",
+        "name": "PUSPENPEL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "165",
+        "name": "R-Dinas Perindustrian",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "147",
+        "name": "Rayon Dislampung",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "73",
+        "name": "REG.JAKARTA(JKT)",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "61",
+        "name": "REG.PALEMBANG(CE)",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "166",
+        "name": "SBU-BANDUNG-BB",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "19",
+        "name": "SCADA APD DISJATIM",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "16",
+        "name": "SCADA APD WILSU",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "214",
+        "name": "SCADA KTT ASEAN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "206",
+        "name": "SCADA KTT G20 BALI",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "203",
+        "name": "SCADA UP3 KARAWANG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "131",
+        "name": "SCADA-APD-ACEH",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "62",
+        "name": "SCADA-APD-WS2JB",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "63",
+        "name": "SCADA-DISBALI",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "155",
+        "name": "SCADA-DISBALI-BAKL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "160",
+        "name": "SCADA-DISBALI-BAKL-BACKUP",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "159",
+        "name": "SCADA-DISBALI-BAKL-MAIN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "68",
+        "name": "SCADA-DISJABAR",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "153",
+        "name": "SCADA-DISJABAR-BACKUP",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "158",
+        "name": "SCADA-DISJABAR-BAKL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "142",
+        "name": "SCADA-DISJABAR-IPVPN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "154",
+        "name": "SCADA-DISJABAR-LAN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "152",
+        "name": "SCADA-DISJABAR-MAIN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "69",
+        "name": "SCADA-DISJATENG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "157",
+        "name": "SCADA-DISJATENG-BAKL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "186",
+        "name": "SCADA-DISJATENG-GSM",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "70",
+        "name": "SCADA-DISJATENG-IPLAN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "71",
+        "name": "SCADA-DISJATENG-IPWANBACKUP",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "72",
+        "name": "SCADA-DISJATENG-IPWANMAIN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "156",
+        "name": "SCADA-DISJATIM-BAKL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "22",
+        "name": "SCADA-DISJAYA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "74",
+        "name": "SCADA-DISJAYA--ANCOL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "75",
+        "name": "SCADA-DISJAYA--APJ-DEPOK",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "76",
+        "name": "SCADA-DISJAYA--BEKASI",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "77",
+        "name": "SCADA-DISJAYA--BUDI-KEMULIAAN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "78",
+        "name": "SCADA-DISJAYA--CENGKARENG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "79",
+        "name": "SCADA-DISJAYA--CIPINANG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "80",
+        "name": "SCADA-DISJAYA--DUREN-TIGA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "81",
+        "name": "SCADA-DISJAYA--DURI-KOSAMBI",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "82",
+        "name": "SCADA-DISJAYA--PETUKANGAN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "83",
+        "name": "SCADA-DISJAYA--SHELTER-ANGKE",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "84",
+        "name": "SCADA-DISJAYA-1GGP010",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "85",
+        "name": "SCADA-DISJAYA-GANDUL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "86",
+        "name": "SCADA-DISJAYA-GI-KANDANG-SAPI",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "87",
+        "name": "SCADA-DISJAYA-GI-KEMAYORAN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "88",
+        "name": "SCADA-DISJAYA-GIS-MANGGARAI",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "89",
+        "name": "SCADA-DISJAYA-GROGOL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "90",
+        "name": "SCADA-DISJAYA-KEBON-JERUK",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "91",
+        "name": "SCADA-DISJAYA-KEBON-SIRIH",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "92",
+        "name": "SCADA-DISJAYA-KETAPANG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "93",
+        "name": "SCADA-DISJAYA-MAMPANG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "94",
+        "name": "SCADA-DISJAYA-MANGGA-BESAR",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "95",
+        "name": "SCADA-DISJAYA-PLN-PUSAT",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "96",
+        "name": "SCADA-DISJAYA-PONDOK-INDAH",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "97",
+        "name": "SCADA-DISJAYA-PONDOK-KELAPA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "98",
+        "name": "SCADA-DISJAYA-PULOMAS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "99",
+        "name": "SCADA-DISJAYA-SETIABUDI",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "100",
+        "name": "SCADA-DISJAYA-SHELTER-BINTARO",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "101",
+        "name": "SCADA-DISJAYA-SHELTER-CAWANG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "102",
+        "name": "SCADA-DISJAYA-SHELTER-CIBINONG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "103",
+        "name": "SCADA-DISJAYA-SHELTER-GAMBIR",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "104",
+        "name": "SCADA-DISJAYA-SHELTER-GANDARIA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "105",
+        "name": "SCADA-DISJAYA-SHELTER-KARET",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "106",
+        "name": "SCADA-DISJAYA-SHELTER-KEMAYORAN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "107",
+        "name": "SCADA-DISJAYA-SHELTER-KEMBANGAN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "108",
+        "name": "SCADA-DISJAYA-SHELTER-MUARA-KARANG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "109",
+        "name": "SCADA-DISJAYA-SHELTER-PLUMPANG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "110",
+        "name": "SCADA-DISJAYA-SHELTER-PPE",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "111",
+        "name": "SCADA-DISJAYA-SHELTER-PULOGADUNG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "112",
+        "name": "SCADA-DISJAYA-TAMAN-RASUNA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "127",
+        "name": "SCADA-GI-APD-Sulselrabar",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "59",
+        "name": "SCADA-GSM",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "128",
+        "name": "SCADA-P3BS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "143",
+        "name": "SCADA-PLN-DISLAMPUNG",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "60",
+        "name": "SCADA.DISJAYA.BACKUP",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "58",
+        "name": "SCADA.DISJAYA.MAIN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "185",
+        "name": "SDH AVARA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "218",
+        "name": "SULAWESI-AMR-NEON",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "1",
+        "name": "Templates",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "12",
+        "name": "Templates/Applications",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "13",
+        "name": "Templates/Databases",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "8",
+        "name": "Templates/Modules",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "9",
+        "name": "Templates/Network Devices",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "10",
+        "name": "Templates/Operating Systems",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "11",
+        "name": "Templates/Servers Hardware",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "14",
+        "name": "Templates/Virtualization",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "15",
+        "name": "TEMPLATES1",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "189",
+        "name": "test",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "188",
+        "name": "UCP2B-IPVPN",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "217",
+        "name": "UP2D METRONET SUMUT",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "216",
+        "name": "UP2D-Lampung",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "161",
+        "name": "UP3 - DISJAYA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "113",
+        "name": "USRGRP-SCADA-DISJATENG(USER)",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "6",
+        "name": "Virtual machines",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "129",
+        "name": "VSAT",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "219",
+        "name": "wan",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "18",
+        "name": "WAN-PLN-SBS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "202",
+        "name": "YOGYA-GROUP",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "4",
+        "name": "Zabbix servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "133",
+        "name": "ZDT-Jakarta",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "222",
+        "name": "ZDT-SBS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "151",
+        "name": "ZYXEL-AVARA-P2B",
+        "internal": "0",
+        "flags": "0"
+    }
+]
